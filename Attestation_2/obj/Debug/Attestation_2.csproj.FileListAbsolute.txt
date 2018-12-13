@@ -1,0 +1,12 @@
+C:\Users\Mesh_I\source\repos\Attestation_2\Attestation_2\obj\Debug\Attestation_2.csprojResolveAssemblyReference.cache
+C:\Users\Mesh_I\source\repos\Attestation_2\Attestation_2\obj\Debug\Attestation_2.csproj.CoreCompileInputs.cache
+C:\Users\Mesh_I\source\repos\Attestation_2\Attestation_2\bin\Debug\Attestation_2.dll
+C:\Users\Mesh_I\source\repos\Attestation_2\Attestation_2\bin\Debug\Attestation_2.pdb
+C:\Users\Mesh_I\source\repos\Attestation_2\Attestation_2\obj\Debug\Attestation_2.dll
+C:\Users\Mesh_I\source\repos\Attestation_2\Attestation_2\obj\Debug\Attestation_2.pdb
+C:\Users\ipioneer\source\repos\Attestation_2\Attestation_2\bin\Debug\Attestation_2.dll
+C:\Users\ipioneer\source\repos\Attestation_2\Attestation_2\bin\Debug\Attestation_2.pdb
+C:\Users\ipioneer\source\repos\Attestation_2\Attestation_2\obj\Debug\Attestation_2.csprojResolveAssemblyReference.cache
+C:\Users\ipioneer\source\repos\Attestation_2\Attestation_2\obj\Debug\Attestation_2.csproj.CoreCompileInputs.cache
+C:\Users\ipioneer\source\repos\Attestation_2\Attestation_2\obj\Debug\Attestation_2.dll
+C:\Users\ipioneer\source\repos\Attestation_2\Attestation_2\obj\Debug\Attestation_2.pdb

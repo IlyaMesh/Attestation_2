@@ -1,0 +1,12 @@
+C:\Users\Mesh_I\source\repos\Attestation_2\Task_4.13\bin\Debug\Task_4.13.exe.config
+C:\Users\Mesh_I\source\repos\Attestation_2\Task_4.13\bin\Debug\Task_4.13.exe
+C:\Users\Mesh_I\source\repos\Attestation_2\Task_4.13\bin\Debug\Task_4.13.pdb
+C:\Users\Mesh_I\source\repos\Attestation_2\Task_4.13\bin\Debug\Attestation_2.dll
+C:\Users\Mesh_I\source\repos\Attestation_2\Task_4.13\bin\Debug\Attestation_2.pdb
+C:\Users\Mesh_I\source\repos\Attestation_2\Task_4.13\obj\Debug\Task_4.13.csprojResolveAssemblyReference.cache
+C:\Users\Mesh_I\source\repos\Attestation_2\Task_4.13\obj\Debug\Task_4._13.MainForm.resources
+C:\Users\Mesh_I\source\repos\Attestation_2\Task_4.13\obj\Debug\Task_4._13.Properties.Resources.resources
+C:\Users\Mesh_I\source\repos\Attestation_2\Task_4.13\obj\Debug\Task_4.13.csproj.GenerateResource.Cache
+C:\Users\Mesh_I\source\repos\Attestation_2\Task_4.13\obj\Debug\Task_4.13.csproj.CoreCompileInputs.cache
+C:\Users\Mesh_I\source\repos\Attestation_2\Task_4.13\obj\Debug\Task_4.13.exe
+C:\Users\Mesh_I\source\repos\Attestation_2\Task_4.13\obj\Debug\Task_4.13.pdb
